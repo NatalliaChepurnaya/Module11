@@ -1,0 +1,11 @@
+Cola1	Drink	111	1/1/2016	New cola
+Cola1	Drink	111	1/1/2016	New cola
+Cola	Drink	111	1/1/2016	New cola
+Meat	Food	123	1/1/2015	Meat
+Fish	Food	101	1/1/2017	Fresh Fish
+Fish	Food	101	1/1/2017	Fresh Fish
+Milk	Drink	01fg	1/1/2017	lalal
+Milk	Drink	01fg	1/1/2017	lalal
+Coce	Drink	0101	1/1/2017	New
+Butter	Food	220	1/2/2017	lalal
+name	cat	code	1/1/2015	annot
